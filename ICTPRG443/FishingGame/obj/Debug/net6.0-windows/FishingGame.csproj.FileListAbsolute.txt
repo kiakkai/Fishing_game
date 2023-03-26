@@ -1,0 +1,236 @@
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\FishingGame.exe
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\FishingGame.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.AssemblyReference.cache
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\FishingGame.loginform.resources
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\FishingGame.Properties.Resources.resources
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\FishingGame.registerform.resources
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.GenerateResource.cache
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\FishingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\FishingGame.AssemblyInfoInputs.cache
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\FishingGame.AssemblyInfo.cs
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.CoreCompileInputs.cache
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.CopyComplete
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\FishingGame.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\refint\FishingGame.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\FishingGame.pdb
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\FishingGame.deps.json
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\FishingGame.runtimeconfig.json
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\bin\Debug\net6.0-windows\FishingGame.pdb
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\FishingGame.genruntimeconfig.cache
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\ref\FishingGame.dll
+C:\Users\Kai.Zhang\Desktop\kai's fishing game\FishingGame\obj\Debug\net6.0-windows\FishingGame.MainWindow.resources
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.exe
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.deps.json
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.runtimeconfig.json
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.pdb
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.AssemblyReference.cache
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.loginform.resources
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.MainWindow.resources
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.Properties.Resources.resources
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.registerform.resources
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.GenerateResource.cache
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.AssemblyInfoInputs.cache
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.AssemblyInfo.cs
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.CoreCompileInputs.cache
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.CopyComplete
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\refint\FishingGame.dll
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.pdb
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.genruntimeconfig.cache
+C:\Users\Kai.Zhang\Desktop\Fishing Game\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\ref\FishingGame.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.exe
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.deps.json
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.runtimeconfig.json
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.pdb
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.AssemblyReference.cache
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.loginform.resources
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.MainWindow.resources
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.Properties.Resources.resources
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.registerform.resources
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.GenerateResource.cache
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.AssemblyInfoInputs.cache
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.AssemblyInfo.cs
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.CoreCompileInputs.cache
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.CopyComplete
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\refint\FishingGame.dll
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.pdb
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.genruntimeconfig.cache
+C:\Users\Kai.Zhang\Desktop\AIT\ICTPRG443\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\ref\FishingGame.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.exe
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.deps.json
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.runtimeconfig.json
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\FishingGame.pdb
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ICTPRG443\FishingGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.AssemblyReference.cache
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.loginform.resources
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.MainWindow.resources
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.Properties.Resources.resources
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.registerform.resources
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.GenerateResource.cache
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.AssemblyInfoInputs.cache
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.AssemblyInfo.cs
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.CoreCompileInputs.cache
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.csproj.CopyComplete
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.dll
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\refint\FishingGame.dll
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.pdb
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\FishingGame.genruntimeconfig.cache
+C:\ICTPRG443\FishingGame\obj\Debug\net6.0-windows\ref\FishingGame.dll

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FishingGame": {
+      "commandName": "Project",
+      "hotReloadEnabled": true
+    }
+  }
+}
